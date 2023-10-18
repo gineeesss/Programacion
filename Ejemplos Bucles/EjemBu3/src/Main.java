@@ -11,13 +11,22 @@ public class Main {
         System.out.println("Introduce 10 Número Enteros para contar la cantidad de Positvos y Negativos");
         int negativos = 0;
         int positivos = 0;
-        for(int i =0; i<10; i++){
+        //for(int i =0; i<10; i++){
+        int i = 0;
+        while(i<10){
             System.out.printf("\nIntroducir Nº %d:",i+1);
             int a = scr.nextInt();
-            if(a<=0){
+            if(a<0){
                 positivos +=1;
+                i++;
             }
-            else negativos +=1;
+            else if (a>0) {
+                negativos +=1;
+                i++;
+            }
+            else{
+                System.out.println("Introduce un Valor !=0");
+            }
         }
         System.out.printf("Contador Negativos:%d \nContador Positivos:%d",negativos,positivos);
 

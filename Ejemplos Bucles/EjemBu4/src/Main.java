@@ -9,11 +9,14 @@ public class Main {
         Scanner scr = new Scanner(System.in);
         System.out.print("Elige cuántos peldaños quieres que tenga la escalera de *:");
         int peld= scr.nextInt();
-        String a = "*";
-        String ases = a;
-        for (int i = peld; i>0;i--){
-            System.out.printf("\n%s",ases);
-            ases=(ases+a);
+        if(peld>0) {
+            String a = "*";
+            String ases = a;
+            for (int i = peld; i > 0; i--) {
+                System.out.printf("\n%s", ases);
+                ases = (ases + a);
+            }
         }
+        else System.out.println("Por favor introduce un numero correcto");
     }
 }
