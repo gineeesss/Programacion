@@ -4,34 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fda6067f-c4c8-41da-997f-64ec41842d57" name="Changes" comment="" />
+    <list default="true" id="d5ca3969-c041-403d-b503-e2da11b9b2ca" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../EjemBu1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemBu1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemBu3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemBu3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemBu4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemBu4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemBu4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemBu4/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemBu5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemBu5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemBu5/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemBu5/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
+  &quot;associatedIndex&quot;: 5
 }</component>
-  <component name="ProjectId" id="2WqA0q9Cgx2okM7qNs6tbrFuTQR" />
+  <component name="ProjectId" id="2Wvg2Y4KeQuNXVYqVhYZyWGkISJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dam1/Desktop/Programacion/Ejemplos Bucles/EjemBu2&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fda6067f-c4c8-41da-997f-64ec41842d57" name="Changes" comment="" />
-      <created>1697449517396</created>
+      <changelist id="d5ca3969-c041-403d-b503-e2da11b9b2ca" name="Changes" comment="" />
+      <created>1697618261270</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1697449517396</updated>
+      <updated>1697618261270</updated>
     </task>
     <servers />
   </component>
